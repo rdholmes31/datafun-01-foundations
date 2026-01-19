@@ -72,3 +72,315 @@
 2026-01-15 17:13:56 | INFO | P01 | END main()..................
 2026-01-15 17:15:17 | INFO | P01 | Generated formatted multi-line SUMMARY string.
 2026-01-15 17:15:17 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 17:41:18 | INFO | P01 | =================
+2026-01-15 17:41:18 | INFO | P01 | === RUN START ===
+2026-01-15 17:41:18 | INFO | P01 | project=Foundations of Professional Python
+2026-01-15 17:41:18 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-15 17:41:18 | INFO | P01 | python=3.14.2
+2026-01-15 17:41:18 | INFO | P01 | os=Windows 10
+2026-01-15 17:41:18 | INFO | P01 | shell=powershell
+2026-01-15 17:41:18 | INFO | P01 | cwd=.
+2026-01-15 17:41:18 | INFO | P01 | github_actions=False
+2026-01-15 17:41:18 | INFO | P01 | =================
+2026-01-15 17:41:18 | INFO | P01 | START main()..................
+2026-01-15 17:41:18 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 17:41:18 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 17:41:18 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-15 17:41:18 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 17:41:18 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 17:41:18 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-15 17:41:18 | INFO | P01 | END main()..................
+2026-01-15 17:45:03 | INFO | P01 | =================
+2026-01-15 17:45:03 | INFO | P01 | === RUN START ===
+2026-01-15 17:45:03 | INFO | P01 | project=Foundations of Professional Python
+2026-01-15 17:45:03 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-15 17:45:03 | INFO | P01 | python=3.14.2
+2026-01-15 17:45:03 | INFO | P01 | os=Windows 10
+2026-01-15 17:45:03 | INFO | P01 | shell=powershell
+2026-01-15 17:45:03 | INFO | P01 | cwd=.
+2026-01-15 17:45:03 | INFO | P01 | github_actions=False
+2026-01-15 17:45:03 | INFO | P01 | =================
+2026-01-15 17:45:03 | INFO | P01 | START main()..................
+2026-01-15 17:45:03 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 17:45:03 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 17:45:03 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-15 17:45:03 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 17:45:03 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 17:45:03 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-15 17:45:03 | INFO | P01 | END main()..................
+2026-01-15 18:00:06 | INFO | P01 | =================
+2026-01-15 18:00:06 | INFO | P01 | === RUN START ===
+2026-01-15 18:00:06 | INFO | P01 | project=Foundations of Professional Python
+2026-01-15 18:00:06 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-15 18:00:06 | INFO | P01 | python=3.14.2
+2026-01-15 18:00:06 | INFO | P01 | os=Windows 10
+2026-01-15 18:00:06 | INFO | P01 | shell=powershell
+2026-01-15 18:00:06 | INFO | P01 | cwd=.
+2026-01-15 18:00:06 | INFO | P01 | github_actions=False
+2026-01-15 18:00:06 | INFO | P01 | =================
+2026-01-15 18:00:06 | INFO | P01 | START main()..................
+2026-01-15 18:00:06 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:00:06 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:00:06 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-15 18:00:06 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:00:06 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:00:06 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-15 18:00:06 | INFO | P01 | END main()..................
+2026-01-15 18:01:39 | INFO | P01 | =================
+2026-01-15 18:01:39 | INFO | P01 | === RUN START ===
+2026-01-15 18:01:39 | INFO | P01 | project=Foundations of Professional Python
+2026-01-15 18:01:39 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-15 18:01:39 | INFO | P01 | python=3.14.2
+2026-01-15 18:01:40 | INFO | P01 | os=Windows 10
+2026-01-15 18:01:40 | INFO | P01 | shell=powershell
+2026-01-15 18:01:40 | INFO | P01 | cwd=.
+2026-01-15 18:01:40 | INFO | P01 | github_actions=False
+2026-01-15 18:01:40 | INFO | P01 | =================
+2026-01-15 18:01:40 | INFO | P01 | START main()..................
+2026-01-15 18:01:40 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:01:40 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:01:40 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-15 18:01:40 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:01:40 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:01:40 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-15 18:01:40 | INFO | P01 | END main()..................
+2026-01-15 18:02:43 | INFO | P01 | =================
+2026-01-15 18:02:43 | INFO | P01 | === RUN START ===
+2026-01-15 18:02:43 | INFO | P01 | project=Foundations of Professional Python
+2026-01-15 18:02:43 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-15 18:02:43 | INFO | P01 | python=3.14.2
+2026-01-15 18:02:43 | INFO | P01 | os=Windows 10
+2026-01-15 18:02:43 | INFO | P01 | shell=powershell
+2026-01-15 18:02:43 | INFO | P01 | cwd=.
+2026-01-15 18:02:43 | INFO | P01 | github_actions=False
+2026-01-15 18:02:43 | INFO | P01 | =================
+2026-01-15 18:02:43 | INFO | P01 | START main()..................
+2026-01-15 18:02:43 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:02:43 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:02:43 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-15 18:02:43 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:02:43 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:02:43 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-15 18:02:43 | INFO | P01 | END main()..................
+2026-01-15 18:05:00 | INFO | P01 | =================
+2026-01-15 18:05:00 | INFO | P01 | === RUN START ===
+2026-01-15 18:05:00 | INFO | P01 | project=Foundations of Professional Python
+2026-01-15 18:05:00 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-15 18:05:00 | INFO | P01 | python=3.14.2
+2026-01-15 18:05:00 | INFO | P01 | os=Windows 10
+2026-01-15 18:05:00 | INFO | P01 | shell=powershell
+2026-01-15 18:05:00 | INFO | P01 | cwd=.
+2026-01-15 18:05:00 | INFO | P01 | github_actions=False
+2026-01-15 18:05:00 | INFO | P01 | =================
+2026-01-15 18:05:00 | INFO | P01 | START main()..................
+2026-01-15 18:05:00 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:05:00 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:05:00 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        TODO: Add your other global variables below:
+
+
+
+
+
+    
+2026-01-15 18:05:00 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:05:00 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:05:00 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 22.50 inches
+        TODO: Add your count of measurements below:
+
+        TODO: Add your minimum and maximum snowfall below:
+
+        Average snowfall: 4.50 inches
+        TODO: Add your standard deviation below:
+
+    
+2026-01-15 18:05:00 | INFO | P01 | END main()..................
+2026-01-15 18:05:36 | INFO | P01 | =================
+2026-01-15 18:05:36 | INFO | P01 | === RUN START ===
+2026-01-15 18:05:36 | INFO | P01 | project=Foundations of Professional Python
+2026-01-15 18:05:36 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-15 18:05:36 | INFO | P01 | python=3.14.2
+2026-01-15 18:05:36 | INFO | P01 | os=Windows 10
+2026-01-15 18:05:36 | INFO | P01 | shell=powershell
+2026-01-15 18:05:36 | INFO | P01 | cwd=.
+2026-01-15 18:05:36 | INFO | P01 | github_actions=False
+2026-01-15 18:05:36 | INFO | P01 | =================
+2026-01-15 18:05:36 | INFO | P01 | START main()..................
+2026-01-15 18:05:36 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:05:36 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:05:36 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        My Understanding: Getting There Slowly
+        My Stress Level: 10
+        My Hunger Level: 7.4
+        This Is Fun: True
+        My Favorite Foods: ['Pizza', 'Sandwiches', 'Sushi']
+
+
+
+
+
+    
+2026-01-15 18:05:36 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:05:36 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:05:36 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 23.80 inches
+        Count of Measurements: 5
+        Minimum Snowfall: 2.50
+        Maximum Snowfall: 6.50
+        Average Snowfall: 4.76 inches
+        Standard Deviation: 1.68
+
+    
+2026-01-15 18:05:36 | INFO | P01 | END main()..................
+2026-01-15 18:15:22 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:15:22 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:18:16 | INFO | P01 | =================
+2026-01-15 18:18:16 | INFO | P01 | === RUN START ===
+2026-01-15 18:18:16 | INFO | P01 | project=Foundations of Professional Python
+2026-01-15 18:18:16 | INFO | P01 | repo_dir=datafun-01-foundations
+2026-01-15 18:18:16 | INFO | P01 | python=3.14.2
+2026-01-15 18:18:16 | INFO | P01 | os=Windows 10
+2026-01-15 18:18:16 | INFO | P01 | shell=powershell
+2026-01-15 18:18:16 | INFO | P01 | cwd=.
+2026-01-15 18:18:16 | INFO | P01 | github_actions=False
+2026-01-15 18:18:16 | INFO | P01 | =================
+2026-01-15 18:18:16 | INFO | P01 | START main()..................
+2026-01-15 18:18:16 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:18:16 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:18:16 | INFO | P01 | 
+    Custom Information:
+        Company name: DataFun Analytics
+        Employee count: 150
+        My Understanding: Getting There Slowly
+        My Stress Level: 10
+        My Hunger Level: 7.4
+        This Is Fun: True
+        My Favorite Foods: ['Pizza', 'Sandwiches', 'Sushi']
+
+
+
+
+
+    
+2026-01-15 18:18:16 | INFO | P01 | Generated formatted multi-line SUMMARY string.
+2026-01-15 18:18:16 | INFO | P01 | Returning the str to the calling function.
+2026-01-15 18:18:16 | INFO | P01 | 
+    Descriptive Statistics for Snowfall (inches):
+        Total snowfall: 23.80 inches
+        Count of Measurements: 5
+        Minimum Snowfall: 2.50
+        Maximum Snowfall: 6.50
+        Average Snowfall: 4.76 inches
+        Standard Deviation: 1.68
+
+    
+2026-01-15 18:18:16 | INFO | P01 | END main()..................
